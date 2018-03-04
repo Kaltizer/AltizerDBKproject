@@ -5,13 +5,30 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Diamondback-Article</title>
+            <title type="main">"Negro woman has a culture"</title>
+            <title type="sub"> Panhel hears black Dean</title>
+            <title type="sub">Digital Edition</title>
+            <author><persName xml : id="Kaltizer">Katie Altizer</persName><orgName>University of Maryland</orgName>
+          </author>
+          <respStnt>
+            <resp> Encoded by </resp>
+            <persName ref="#Kaltizer"> Katie Altizer</persName>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher> Maryland Institute of Technology in the Humanities </publisher>
+            <pubPlace> <settlement>College Park </settlement><region>MD</region></pubPlace>
+            <date when=2018-4-3">March 4 2018></date>
          </publicationStmt>
          <sourceDesc>
-            <p>Information  about the source</p>
+           <bibl>
+             <title> The Diamondback </title>
+             <publisher><orgName>The University of Maryland</orgName></publisher>
+             <pubPlace>
+               <settlement>College Park</settlement>
+               <region>MD</region>
+             </pubPlace>
+               <date when="1969-4-14"> April 14 1969 </date>
+          </bibl>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
@@ -27,7 +44,7 @@ given by <persName><forename>Barbara</forename><surname>Hatton</surname></persNa
 as­<lb/>
 sistant dean of student services
 at <orgName>FCC</orgName>, to an attentive audience
-of about 600 at a Panhellenic con­<lb/>
+of about 600 at a <orgName>Panhellenic</orgName> con­<lb/>
 ference in the <placeName>chapel</placeName> Saturday
 morning.</p>
 <p>Speaking without notes, <persName>Miss
