@@ -44,9 +44,15 @@ given by <persName><forename>Barbara</forename><surname>Hatton</surname></persNa
 as­<lb/>
 sistant dean of student services
 at <orgName>FCC</orgName>, to an attentive audience
+<<<<<<< HEAD
 of about 600 at a <orgName>Panhellenic</orgName> con­<lb/>
 ference in the <placeName>chapel</placeName> Saturday
 morning.</p>
+=======
+of about 600 at a Panhellenic con­<lb/>
+ference in the <placeName>chapel</placeName> <date=" 1969-04-12">Saturday
+  morning</date>.</p>
+>>>>>>> dcf64b6799abb78eb2f0eec11ced17dbd4bbe210
 <p>Speaking without notes, <persName>Miss
 Hatton</persName> attempted to give the
 sorority girls an idea of where
@@ -55,7 +61,7 @@ lation to racial integration.</p>
 <p>“Rushing out and bringing
 people (blacks) into a white thing
 isn’t wanted anymore,” <persName>Miss
-Hatton</persName> said.</p>
+  <surname>Hatton</surname></persName> said.</p>
 <p>According to her, black col­<lb/>
 lege women now have their own
 concept of beauty and culture
@@ -63,7 +69,7 @@ and it has nothing to do with the
 “narrow concepts we get from
 TV."</p>
 <p>Black women do not want to
-be accepted as equal,<persName>Miss Hat­
+be accepted as equal,<persName>Miss Hat<lb/>­
 ton</persName> said.</p>
 <p>“We want to be accepted as we
 are; black with our own way of
@@ -101,7 +107,7 @@ and one in honor of a great war<lb/>f­
 rior.</p>
 <p>The conference also hosted a
 preview of the <orgName>Black Student
-Uhion dancers</orgName>’recital. The
+  <sic>Uhion</sic> dancers</orgName>’recital. The
 theme of the program was history
 of the American Negro, from his
 comfort in a native culture to
@@ -109,15 +115,15 @@ his search for identity now.</p>
 <p>“The conference was meant
 to expose the girls to this cul­<lb/>
 ture,” said <persName><forename>Debbie</forename><surname>Jennings</surname></persName>, sec­<lb/>
-ond vice president of <orgName>Panhel</orgName>.
+  ond <persName>vice president</persName> of <orgName>Panhel</orgName>.
 “We don’t know yet how it
 will affect each sorority’s poli­<lb/>
 cies.”</p>
-<p>One sorority girl commented,
+        <p>One <persName>sorority girl</persName> commented,
 “Some of the houses are really
 for integration and others are
 dead against it. But I think
-we’ll have some black greeks
+  we’ll have some <orgName>black greeks</orgName>
 next year whether some girls
 want it or not. We’re under a
 lot of pressure.”</p>
